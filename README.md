@@ -8,11 +8,17 @@ The 2D Platformer Advanture game.
 
 ## Features
 
-- Movement, Jump 
-- Character Animation
-- Fullscreen mode
-- Traps and collective items
-- WebGL Support 
+- [x] Movement, Jump 
+- [x] Character Animation
+- [x] Fullscreen mode
+- [x] Traps and collective items
+- [x] Healthbar ,immortal for 5sec
+- [x] Fiex bugs(sick with walls),double jump , beforejump ,afterjump
+- [x] Added Running and Jump Dusts using Particle effect
+- [x] Added Audio for jump, run, collect items, heathcollect, BGM, Button clicks on menu
+- [x] Added Game menu with credit and how to play screen
+- [ ] WebGL Support 
+- [x] Android Release
 
 
 ## Demo
